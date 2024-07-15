@@ -1,3 +1,6 @@
+
+![Screenshot 2024-07-14 204747](https://github.com/user-attachments/assets/abdb795a-6864-4a6b-a0f7-aea59b7334ef)
+
 "Reckless Recoil": 2D Level-based Action Shooting Puzzle Game
 
 - Role: Designer and Developer
