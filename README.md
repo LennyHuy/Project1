@@ -15,7 +15,7 @@
 
 -Technologies Used: Unity, Asperite, sfxr, Github Desktop
 
-*Screenshot: 
+*Screenshots: 
 
 ![Screenshot 2024-07-14 210630](https://github.com/user-attachments/assets/e9d53a8d-4f29-4742-9b88-8cfde0b856b8)
 
