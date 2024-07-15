@@ -14,3 +14,13 @@
 + Engaging enemy encounters and puzzles
 
 -Technologies Used: Unity, Asperite, sfxr, Github Desktop
+
+*Screenshot: 
+
+![Screenshot 2024-07-14 210630](https://github.com/user-attachments/assets/e9d53a8d-4f29-4742-9b88-8cfde0b856b8)
+
+![Screenshot 2024-07-14 211404](https://github.com/user-attachments/assets/bd1b952c-6b64-47ca-bb7b-1d9483b73f24)
+
+![Screenshot 2024-07-14 211206](https://github.com/user-attachments/assets/00c661e5-3618-4c60-a997-1aff68726e4b)
+
+![Screenshot 2024-07-14 211042](https://github.com/user-attachments/assets/6d803928-65f5-469e-9529-e1079fb3662b)
